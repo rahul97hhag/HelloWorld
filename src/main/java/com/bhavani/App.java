@@ -1,7 +1,7 @@
 package com.bhavani;
 
 /**
- * Hello world!
+ * Hello World!
  *
  */
 public class App 
